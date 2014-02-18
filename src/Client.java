@@ -8,5 +8,8 @@
  * @author draemplus
  */
 public class Client {
+    private int cin;
+    private String nom;
+    
     
 }
